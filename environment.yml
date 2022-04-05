@@ -1,0 +1,13 @@
+name: pwf-ictp
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - sklearn
+
