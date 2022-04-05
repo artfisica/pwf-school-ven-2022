@@ -1,6 +1,7 @@
 # Asistentes sesion Datos lunes 4 Abril 2022
- * Artuso Sánchez
- * Enrique García
+## Archivo para practicar con git
+ * Arturo Sanchez
+ * Enrique Garcia
  * Daniel Rodriguez
  * Rafael Martínez
 
