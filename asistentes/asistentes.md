@@ -7,3 +7,5 @@
  * Maria Agudo
  * Francis Villacrés
  * Jesus Garcia
+ * Giuseppe Scolamiero
+
